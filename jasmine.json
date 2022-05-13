@@ -1,0 +1,7 @@
+{
+    "spec_dir": "spec",
+    "helpers": ["helpers/reporter.ts"],
+    "spec_files": [
+        "**/*[sS]pec.ts"
+    ]
+}
